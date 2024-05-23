@@ -1,7 +1,7 @@
 body{
     margin:0;
     padding:0;
-    background-image: url(bois.jpg);
+    background-image: url(desert.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -67,7 +67,7 @@ gyugyg
 }
 
 header{
-    background-image: url(bois.jpg);
+    background-image: url(desert.jpg);
     height: 100vh;
     background-size: cover;
 
